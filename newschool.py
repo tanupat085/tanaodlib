@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-import school
-from school import  Student , SpecialStudent
-from school import *
+import tanaod.school
+from tanaod.school import  Student , SpecialStudent
+from tanaod.school import *
 
 def Test():   
     '''

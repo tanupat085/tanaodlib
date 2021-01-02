@@ -12,14 +12,14 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'tanaod',      
   packages = ['tanaod'], 
-  version = '0.0.1',  
+  version = '0.0.2',  
   license='MIT', 
   description = 'First libary from tanaod',
   long_description=DESCRIPTION,
   author = 'tanaod',                 
   author_email = 'tanupat085@gmail.com',     
-  url = 'https://github.com/UncleEngineer/UncleChat',  
-  download_url = 'https://github.com/UncleEngineer/UncleChat/archive/0.0.1.zip',  
+  url = 'https://github.com/tanupat085/tanaodlib',  
+  download_url = 'https://github.com/tanupat085/tanaodlib/archive/v0.0.2.zip',  
   keywords = ['tanaod', 'oop', 'Tanupat Satitvattana'],   
   classifiers=[
     'Development Status :: 3 - Alpha',     
